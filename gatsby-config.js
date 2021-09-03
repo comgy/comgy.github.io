@@ -4,7 +4,6 @@ module.exports = {
     title: "comgy.github.io",
   },
   plugins: [
-    "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
       options: {
